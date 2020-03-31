@@ -1,0 +1,2 @@
+rootProject.name='e621 Extension'
+include ':app'
